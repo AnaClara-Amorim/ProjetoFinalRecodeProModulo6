@@ -1,0 +1,14 @@
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\bin\Debug\net8.0\ProjetoRecodeProModulo6.exe
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\bin\Debug\net8.0\ProjetoRecodeProModulo6.deps.json
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\bin\Debug\net8.0\ProjetoRecodeProModulo6.runtimeconfig.json
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\bin\Debug\net8.0\ProjetoRecodeProModulo6.dll
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\bin\Debug\net8.0\ProjetoRecodeProModulo6.pdb
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.AssemblyInfo.cs
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.dll
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\refint\ProjetoRecodeProModulo6.dll
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.pdb
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ProjetoRecodeProModulo6.genruntimeconfig.cache
+C:\Users\Ana Clara\Documents\ProjetoRecodeProModulo6\obj\Debug\net8.0\ref\ProjetoRecodeProModulo6.dll
